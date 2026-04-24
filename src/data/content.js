@@ -1,14 +1,11 @@
 export const siteConfig = {
-  name: "Your Name",
-  tagline: "Bioengineering PhD Student",
-  institution: "MIT",
-  email: "yourname@mit.edu",
-  github: "https://github.com/yourusername",
-  twitter: "https://twitter.com/yourhandle",
-  scholar: "https://scholar.google.com/",
-  bio: `I'm a second-year PhD student in bioengineering at MIT, working at the intersection
-  of synthetic biology and machine learning. I'm interested in how we can use computational
-  tools to design biological systems more reliably.`,
+  name: "Amy L. Zhang",
+  tagline: "First-Year Bioengineering Undergraduate",
+  institution: "Harvard",
+  email: "alzhang@college.harvard.edu",
+  github: "https://github.com/amylzh07",
+  linkedin: "https://www.linkedin.com/in/amy-lening-zhang-603304300/",
+  bio: `I'm a first-year at Harvard studying bioengineering and global + health policy.`,
 };
 
 export const blogPosts = [
