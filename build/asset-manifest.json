@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/alzhang-website/static/css/main.74985ea2.css",
+    "main.js": "/alzhang-website/static/js/main.0a7a1983.js",
+    "index.html": "/alzhang-website/index.html",
+    "main.74985ea2.css.map": "/alzhang-website/static/css/main.74985ea2.css.map",
+    "main.0a7a1983.js.map": "/alzhang-website/static/js/main.0a7a1983.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.74985ea2.css",
+    "static/js/main.0a7a1983.js"
+  ]
+}
