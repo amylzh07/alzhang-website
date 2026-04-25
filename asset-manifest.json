@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/amylzh07/alzhang-website/static/css/main.74985ea2.css",
+    "main.js": "/amylzh07/alzhang-website/static/js/main.f42e6297.js",
+    "index.html": "/amylzh07/alzhang-website/index.html",
+    "main.74985ea2.css.map": "/amylzh07/alzhang-website/static/css/main.74985ea2.css.map",
+    "main.f42e6297.js.map": "/amylzh07/alzhang-website/static/js/main.f42e6297.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.74985ea2.css",
+    "static/js/main.f42e6297.js"
+  ]
+}
